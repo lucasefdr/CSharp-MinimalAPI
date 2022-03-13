@@ -47,3 +47,9 @@ C:\Users\lcsef\DeveloperWS\balta\MinimalAPI\bin\Debug\net6.0\runtimes\win-arm64\
 C:\Users\lcsef\DeveloperWS\balta\MinimalAPI\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\lcsef\DeveloperWS\balta\MinimalAPI\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\lcsef\DeveloperWS\balta\MinimalAPI\obj\Debug\net6.0\MinimalAPI.csproj.CopyComplete
+C:\Users\lcsef\DeveloperWS\balta\MinimalAPI\bin\Debug\net6.0\Flunt.dll
+C:\Users\lcsef\DeveloperWS\balta\MinimalAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\lcsef\DeveloperWS\balta\MinimalAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lcsef\DeveloperWS\balta\MinimalAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lcsef\DeveloperWS\balta\MinimalAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lcsef\DeveloperWS\balta\MinimalAPI\obj\Debug\net6.0\MinimalAPI.MvcApplicationPartsAssemblyInfo.cs
