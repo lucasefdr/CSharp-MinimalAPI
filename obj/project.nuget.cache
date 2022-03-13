@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "RJkcOa8U9WL3gvN9lxokxGFiwaOEGAULinDfglEyKDFr5pcq1ZArRy0oTR0VRNnBUajs3TL8EeUkQMVw20R15g==",
+  "dgSpecHash": "VyuA2WexlxNqaJlZNr9MgPlADE/AClW4O5JPv9X/QMABOIN2OV8T/g+qZTID0UPqLU8OyFn10w60cHTQw6cPbA==",
   "success": true,
   "projectFilePath": "C:\\Users\\lcsef\\DeveloperWS\\balta\\MinimalAPI\\MinimalAPI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\lcsef\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512",
     "C:\\Users\\lcsef\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\lcsef\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.3\\microsoft.data.sqlite.core.6.0.3.nupkg.sha512",
     "C:\\Users\\lcsef\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.3\\microsoft.entityframeworkcore.6.0.3.nupkg.sha512",
